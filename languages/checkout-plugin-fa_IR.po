@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: checkout-plugin\n"
+"POT-Creation-Date: 2024-05-26 00:00+0000\n"
+"PO-Revision-Date: 2024-05-27 14:29+0330\n"
+"Last-Translator: YOUR NAME <YOUR EMAIL>\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "Custom Free Shipping"
+msgstr "حمل و نقل رایگان سفارشی"
+
+msgid "Custom Free Shipping Method"
+msgstr "روش حمل و نقل رایگان سفارشی"
+
+msgid "Free Shipping"
+msgstr "حمل و نقل رایگان"
+
+msgid "Order reserved by customer."
+msgstr "سفارش توسط مشتری رزرو شد."
+
+msgid "Add to my existing Reserve order"
+msgstr "به سفارش رزرو موجود من اضافه شود"
+
+msgid "Reserve this order"
+msgstr "این سفارش را رزرو کنید"
+
+msgid "Change to Processing"
+msgstr "تغییر به پردازش"
+
+msgid "Order status changed by customer."
+msgstr "وضعیت سفارش توسط مشتری تغییر یافت."
+
+msgid "Countdown Timer"
+msgstr "تایمر شمارش معکوس"
+
+msgid "Shipping Methods IDs"
+msgstr "شناسه‌های روش‌های حمل و نقل"
+
+msgid "Zone name"
+msgstr "نام منطقه"
+
+msgid "Shipping methods"
+msgstr "روش‌های حمل و نقل"
+
+msgid "Reserve Settings"
+msgstr "تنظیمات رزرو"
+
+msgctxt "Order status"
+msgid "Reserve"
+msgstr "رزرو شده"
+
+msgid "Save Settings"
+msgstr "ذخیره تنظیمات"
+
+msgid "Reserve Order Timeout (in hours)"
+msgstr "مهلت سفارش رزرو (به ساعت)"
+
+msgid "Reserves <span class=\"count\">(%s)</span>"
+msgstr "رزروها <span class=\"count\">(%s)</span>"
